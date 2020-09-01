@@ -1,0 +1,18 @@
+.banner-footer{
+    background-color: brown;
+}
+.left-menu{
+    background-color: orange;
+}
+.odd{
+    background-color: orchid;
+}
+.even{
+    background-color: seagreen;
+}
+.top-menu{
+    background-color: beige;
+}
+body,html{
+    height:100%;
+}
